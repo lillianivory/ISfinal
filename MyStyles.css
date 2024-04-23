@@ -1,0 +1,33 @@
+p{
+
+
+    font-weight: bold; 
+    font-size: 20px; 
+}
+
+#top{
+    text-decoration:underline;
+    color: gray
+}
+
+.emphasizedText{
+    font-style: italic; 
+    color:darkolivegreen;
+}
+
+body{
+    background-color:beige;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 5px solid rgb(165, 193, 234);
+    margin: 50px; 
+    padding:10px; 
+}
+
+ul li{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside; 
+}
